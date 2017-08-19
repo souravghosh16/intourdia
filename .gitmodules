@@ -1,0 +1,3 @@
+[submodule "itd-wa-admin"]
+	path = itd-wa-admin
+	url = https://github.com/souravghosh16/itd-wa-admin.git
