@@ -1,3 +1,15 @@
 [submodule "itd-wa-admin"]
 	path = itd-wa-admin
 	url = https://github.com/souravghosh16/itd-wa-admin.git
+[submodule "itd-wa-users"]
+	path = itd-wa-users
+	url = https://github.com/souravghosh16/itd-wa-users.git
+[submodule "itd-wa-redis"]
+	path = itd-wa-redis
+	url = https://github.com/souravghosh16/itd-wa-redis.git
+[submodule "itd-wa-vendors"]
+	path = itd-wa-vendors
+	url = https://github.com/souravghosh16/itd-wa-vendors.git
+[submodule "itd-wa-pub-sub-for-redis"]
+	path = itd-wa-pub-sub-for-redis
+	url = https://github.com/souravghosh16/itd-wa-pub-sub-for-redis.git
